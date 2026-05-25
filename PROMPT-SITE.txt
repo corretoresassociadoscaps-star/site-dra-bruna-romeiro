@@ -1,1 +1,160 @@
+Crie um protótipo inicial navegável do site institucional da dra. bruna romeiro, cirurgiã-dentista, usando como referência visual principal a imagem anexada LAYOUT1.png.
+
+Objetivo:
+Desenvolver a primeira versão funcional da página Home, fiel ao layout enviado, para visualização em navegador e publicação provisória.
+
+Tecnologias:
+- HTML5
+- CSS3
+- JavaScript simples
+- Estrutura estática
+- Responsivo para desktop, tablet e celular
+- Código limpo, organizado e comentado
+
+Estrutura de arquivos desejada:
+/
+├── index.html
+├── em-construcao.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+└── assets/
+└── images/
+
+Direção visual:
+- Site premium, clean, elegante e acolhedor
+- Paleta em branco quente, bege, nude, dourado fosco e marrom suave
+- Tipografia sofisticada, com títulos em estilo serifado elegante e textos em fonte sans-serif moderna
+- Visual clínico, seguro, confiável, feminino, profissional e humanizado
+- Manter forte sensação de saúde, bem-estar, excelência e cuidado
+
+Conteúdo central da marca:
+- Nome: Dra. Bruna Romeiro
+- Profissão: Cirurgiã-dentista
+- Conceito principal: “Odontologia muito além dos dentes.”
+- Posicionamento: odontologia moderna, humanizada, ética, personalizada e voltada ao bem-estar integral do paciente
+- A Dra. Bruna deve ser apresentada como profissional qualificada, segura, atualizada e comprometida com a saúde, autoestima e qualidade de vida dos pacientes
+
+Menu principal:
+- Início
+- Sobre
+- Tratamentos
+- Especialidades
+- Rotina Clínica
+- Para Crianças
+- Blog
+- Contato
+- Botão: Agendar Avaliação
+
+Comportamento dos links:
+- “Início” deve apontar para index.html
+- Todos os demais menus, cards e botões internos devem apontar para em-construcao.html
+- O botão principal “Agendar Avaliação” deve abrir WhatsApp em nova aba
+- Criar um link de WhatsApp provisório usando o número: 75 99932-6714
+- Mensagem pré-preenchida: “Olá, Dra. Bruna! Gostaria de agendar uma avaliação.”
+
+Seções da Home:
+1. Header fixo ou levemente destacado
+- Logo/assinatura “Dra. Bruna Romeiro”
+- Menu horizontal
+- Botão de agendamento
+
+2. Hero principal
+- Título grande: “Odontologia muito além dos dentes.”
+- Subtítulo: “Cuidar do seu sorriso é transformar sua autoestima e sua qualidade de vida.”
+- Botões:
+- Agendar Avaliação
+- Conheça os Tratamentos
+- Usar imagem real da Dra. Bruna Romeiro como destaque lateral
+
+3. Ícones de diferenciais
+- Atendimento humanizado
+- Tecnologia avançada
+- Tratamentos personalizados
+- Resultados naturais
+
+4. Seção Sobre
+- Título: “Conheça a Dra. Bruna Romeiro”
+- Texto:
+“Cirurgiã-dentista apaixonada por transformar sorrisos e vidas através de uma odontologia moderna, ética e personalizada. Está em constante atualização para oferecer o que há de mais avançado em técnicas, tecnologia e cuidado humano.”
+- Imagem da Dra. Bruna em atendimento ou em ambiente clínico
+- Botão: Saiba mais sobre mim
+
+5. Tratamentos em destaque
+Criar cards para:
+- Bruxismo e DTM
+- Aparelho Invisível SouSmile
+- Botox
+- Clareamento Dental
+- Atendimento Clínico
+- Odontopediatria
+Cada card deve ter imagem, título, breve descrição e link para em-construcao.html.
+
+6. Faixa institucional escura/premium
+- Título: “Excelência em cada detalhe”
+- Bullets:
+- Atualização constante em novas técnicas e tecnologias
+- Equipamentos modernos e ambiente acolhedor
+- Planos de tratamento individualizados
+- Foco em prevenção, saúde e bem-estar
+- Botão: Conheça a rotina clínica
+
+7. Seção Para Crianças
+- Título: “Sorrisos que começam com carinho”
+- Texto:
+“Acreditamos que a experiência no consultório pode ser leve, divertida e educativa. Aqui, seu filho é tratado com todo amor, paciência e atenção que merece.”
+- Usar imagem da Dra. Bruna com criança, se disponível
+- Botão: Saiba mais
+
+8. Depoimentos
+- Criar carrossel simples ou cards estáticos com depoimentos fictícios/provisórios
+- Exemplo:
+“A Dra. Bruna é incrível! Atendimento humanizado, explica tudo com clareza e faz a gente se sentir segura.”
+- Identificar como paciente, sem dados sensíveis completos
+
+9. Chamada final para agendamento
+- Título: “Agende sua avaliação”
+- Texto: “Será um prazer cuidar do seu sorriso!”
+- Botão WhatsApp
+- Botão telefone
+
+10. Rodapé
+- Endereço provisório:
+Rua dos Hibiscos, 123
+Centro, Porto Seguro/BA
+- Telefone: (75) 99932-6714
+- E-mail: contato@drabrunaromeiro.com.br
+- Instagram: @dra.brunaromeiro
+- Links rápidos
+- Logo/assinatura visual
+
+Página em construção:
+Criar em-construcao.html com:
+- Mesma identidade visual
+- Logo no topo
+- Mensagem central:
+“Página em construção”
+“Em breve esta área estará disponível com informações completas.”
+- Botão para voltar à Home
+- Botão para agendar pelo WhatsApp
+
+Requisitos técnicos:
+- Layout responsivo
+- Menu mobile funcional
+- Animações suaves de hover
+- Botões com destaque premium
+- Imagens otimizadas
+- Alt text nas imagens
+- Código sem dependências externas complexas
+- Pode usar Google Fonts
+- Usar boas práticas de SEO básico:
+- title
+- meta description
+- headings organizados
+- tags semânticas
+- Open Graph básico
+
+Observação importante:
+O objetivo desta primeira versão é prototipagem visual. Não precisa ter backend, banco de dados, painel administrativo ou blog funcional neste momento. O foco é gerar uma Home navegável, bonita, responsiva e pronta para hospedagem provisória em Vercel, Netlify, GitHub Pages ou qualquer hospedagem estática.
 
